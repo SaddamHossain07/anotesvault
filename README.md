@@ -4,6 +4,12 @@ A secure, multi-user online notepad with individual note encryption capabilities
 
 🚀 **[Live Demo](https://anotesvalut.com)**
 
+![Login](screenshots/login.png)
+*Setting up password protection for individual notes*
+
+![Main Interface](screenshots/main.png)
+*Main notepad interface with note list and editor*
+
 ## Features
 
 ✨ **Multi-User Support** - Multiple users can create and manage their own notes  
